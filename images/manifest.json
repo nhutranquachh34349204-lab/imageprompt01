@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:07:17.526Z",
+  "generated_at": "2026-09-06T14:09:33.821Z",
   "generator": "Arena.ai built-in image generation tool (OpenAI-compatible image model, direct generation, no external API key)",
   "quality": 85,
   "max_long_edge": 1536,
@@ -1113,7 +1113,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 229516,
-      "created_at": "2026-09-06T14:07:16.113Z"
+      "created_at": "2026-09-06T14:07:16.110Z"
     },
     {
       "id": "IMG_102",
@@ -1124,7 +1124,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 201572,
-      "created_at": "2026-09-06T14:07:16.280Z"
+      "created_at": "2026-09-06T14:07:16.278Z"
     },
     {
       "id": "IMG_103",
@@ -1135,7 +1135,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 212272,
-      "created_at": "2026-09-06T14:07:16.443Z"
+      "created_at": "2026-09-06T14:07:16.442Z"
     },
     {
       "id": "IMG_104",
@@ -1146,7 +1146,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 180698,
-      "created_at": "2026-09-06T14:07:16.601Z"
+      "created_at": "2026-09-06T14:07:16.598Z"
     },
     {
       "id": "IMG_105",
@@ -1157,7 +1157,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 181520,
-      "created_at": "2026-09-06T14:07:16.763Z"
+      "created_at": "2026-09-06T14:07:16.762Z"
     },
     {
       "id": "IMG_106",
@@ -1168,7 +1168,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 194180,
-      "created_at": "2026-09-06T14:07:16.922Z"
+      "created_at": "2026-09-06T14:07:16.918Z"
     },
     {
       "id": "IMG_107",
@@ -1179,7 +1179,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 175942,
-      "created_at": "2026-09-06T14:07:17.074Z"
+      "created_at": "2026-09-06T14:07:17.070Z"
     },
     {
       "id": "IMG_108",
@@ -1190,7 +1190,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 150084,
-      "created_at": "2026-09-06T14:07:17.231Z"
+      "created_at": "2026-09-06T14:07:17.230Z"
     },
     {
       "id": "IMG_109",
@@ -1201,7 +1201,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 142200,
-      "created_at": "2026-09-06T14:07:17.373Z"
+      "created_at": "2026-09-06T14:07:17.370Z"
     },
     {
       "id": "IMG_110",
@@ -1212,7 +1212,117 @@
       "width": 1376,
       "height": 768,
       "bytes": 172186,
-      "created_at": "2026-09-06T14:07:17.523Z"
+      "created_at": "2026-09-06T14:07:17.522Z"
+    },
+    {
+      "id": "IMG_111",
+      "filename": "IMG_111__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 34-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, calm mature jawline, serene confident brown eyes, unpretentious white Oxford shirt and dark navy chinos, quiet inner sovereignty. Location and setting: Home office workspace, quiet suburban roadway, and park trail. Visual action: Sam Carter seated at his home desk reviewing financial ledgers and investment statements with steady, focused determination; a clean white document box reserved for a graphic overlay. Composition: Medium Document / Narrative Framing, Eye-level. Foreground: A notebook, pen, and coffee mug on the wooden desk. Midground: Sam Carter working attentively with calm posture. Background: Simple bookshelf with investment books and a window showing residential greenery. Lighting: Clean daytime ambient window light balanced with warm interior tones. Color palette: Desk oak, paper white, canvas navy, maple green, slate gray. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 156614,
+      "created_at": "2026-09-06T14:09:32.473Z"
+    },
+    {
+      "id": "IMG_112",
+      "filename": "IMG_112__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 34-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, calm mature jawline, serene confident brown eyes, unpretentious white Oxford shirt and dark navy chinos, quiet inner sovereignty. Location and setting: Home office workspace, quiet suburban roadway, and park trail. Visual action: Sam Carter seated at his home desk reviewing financial ledgers and investment statements with steady, focused determination; a clean white document box reserved for a graphic overlay. Composition: Medium Document / Narrative Framing, Eye-level. Foreground: A notebook, pen, and coffee mug on the wooden desk. Midground: Sam Carter working attentively with calm posture. Background: Simple bookshelf with investment books and a window showing residential greenery. Lighting: Clean daytime ambient window light balanced with warm interior tones. Color palette: Desk oak, paper white, canvas navy, maple green, slate gray. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 154194,
+      "created_at": "2026-09-06T14:09:32.623Z"
+    },
+    {
+      "id": "IMG_113",
+      "filename": "IMG_113__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 34-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, calm mature jawline, serene confident brown eyes, unpretentious white Oxford shirt and dark navy chinos, quiet inner sovereignty. Location and setting: Home office workspace, quiet suburban roadway, and park trail. Visual action: Sam Carter seated at his home desk reviewing financial ledgers and investment statements with steady, focused determination; a clean white document box reserved for a graphic overlay. Composition: Medium Document / Narrative Framing, Eye-level. Foreground: A notebook, pen, and coffee mug on the wooden desk. Midground: Sam Carter working attentively with calm posture. Background: Simple bookshelf with investment books and a window showing residential greenery. Lighting: Clean daytime ambient window light balanced with warm interior tones. Color palette: Desk oak, paper white, canvas navy, maple green, slate gray. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 139804,
+      "created_at": "2026-09-06T14:09:32.769Z"
+    },
+    {
+      "id": "IMG_114",
+      "filename": "IMG_114__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 34-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, calm mature jawline, serene confident brown eyes, unpretentious white Oxford shirt and dark navy chinos, quiet inner sovereignty. Location and setting: Home office workspace, quiet suburban roadway, and park trail. Visual action: Sam Carter seated at his home desk reviewing financial ledgers and investment statements with steady, focused determination; a clean white document box reserved for a graphic overlay. Composition: Medium Document / Narrative Framing, Eye-level. Foreground: A notebook, pen, and coffee mug on the wooden desk. Midground: Sam Carter working attentively with calm posture. Background: Simple bookshelf with investment books and a window showing residential greenery. Lighting: Clean daytime ambient window light balanced with warm interior tones. Color palette: Desk oak, paper white, canvas navy, maple green, slate gray. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 151180,
+      "created_at": "2026-09-06T14:09:32.920Z"
+    },
+    {
+      "id": "IMG_115",
+      "filename": "IMG_115__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 34-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, calm mature jawline, serene confident brown eyes, unpretentious white Oxford shirt and dark navy chinos, quiet inner sovereignty. Location and setting: Home office workspace, quiet suburban roadway, and park trail. Visual action: Sam Carter seated at his home desk reviewing financial ledgers and investment statements with steady, focused determination; a clean white document box reserved for a graphic overlay. Composition: Medium Document / Narrative Framing, Eye-level. Foreground: A notebook, pen, and coffee mug on the wooden desk. Midground: Sam Carter working attentively with calm posture. Background: Simple bookshelf with investment books and a window showing residential greenery. Lighting: Clean daytime ambient window light balanced with warm interior tones. Color palette: Desk oak, paper white, canvas navy, maple green, slate gray. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 144594,
+      "created_at": "2026-09-06T14:09:33.064Z"
+    },
+    {
+      "id": "IMG_116",
+      "filename": "IMG_116__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 34-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, calm mature jawline, serene confident brown eyes, unpretentious white Oxford shirt and dark navy chinos, quiet inner sovereignty. Location and setting: Home office workspace, quiet suburban roadway, and park trail. Visual action: Sam Carter seated at his home desk reviewing financial ledgers and investment statements with steady, focused determination; a clean white document box reserved for a graphic overlay. Composition: Medium Document / Narrative Framing, Eye-level. Foreground: A notebook, pen, and coffee mug on the wooden desk. Midground: Sam Carter working attentively with calm posture. Background: Simple bookshelf with investment books and a window showing residential greenery. Lighting: Clean daytime ambient window light balanced with warm interior tones. Color palette: Desk oak, paper white, canvas navy, maple green, slate gray. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 155100,
+      "created_at": "2026-09-06T14:09:33.216Z"
+    },
+    {
+      "id": "IMG_117",
+      "filename": "IMG_117__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 34-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, calm mature jawline, serene confident brown eyes, unpretentious white Oxford shirt and dark navy chinos, quiet inner sovereignty. Location and setting: Home office workspace, quiet suburban roadway, and park trail. Visual action: Sam Carter seated at his home desk reviewing financial ledgers and investment statements with steady, focused determination; a clean white document box reserved for a graphic overlay. Composition: Medium Document / Narrative Framing, Eye-level. Foreground: A notebook, pen, and coffee mug on the wooden desk. Midground: Sam Carter working attentively with calm posture. Background: Simple bookshelf with investment books and a window showing residential greenery. Lighting: Clean daytime ambient window light balanced with warm interior tones. Color palette: Desk oak, paper white, canvas navy, maple green, slate gray. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 147316,
+      "created_at": "2026-09-06T14:09:33.361Z"
+    },
+    {
+      "id": "IMG_118",
+      "filename": "IMG_118__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Brian Jenkins: 34-year-old Caucasian sales director, receding brown hair, tired bloodshot eyes with puffy dark circles, stressed forced smile, wearing an expensive designer linen shirt, gold wristwatch, clutching an amber glass with anxious fingers. Location and setting: Home office workspace, quiet suburban roadway, and park trail. Visual action: Sam Carter seated at his home desk reviewing financial ledgers and investment statements with steady, focused determination; a clean white document box reserved for a graphic overlay. Composition: Medium Document / Narrative Framing, Eye-level. Foreground: A notebook, pen, and coffee mug on the wooden desk. Midground: Sam Carter working attentively with calm posture. Background: Simple bookshelf with investment books and a window showing residential greenery. Lighting: Clean daytime ambient window light balanced with warm interior tones. Color palette: Desk oak, paper white, canvas navy, maple green, slate gray. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 164186,
+      "created_at": "2026-09-06T14:09:33.510Z"
+    },
+    {
+      "id": "IMG_119",
+      "filename": "IMG_119__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 34-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, calm mature jawline, serene confident brown eyes, unpretentious white Oxford shirt and dark navy chinos, quiet inner sovereignty. Location and setting: Home office workspace, quiet suburban roadway, and park trail. Visual action: Sam Carter seated at his home desk reviewing financial ledgers and investment statements with steady, focused determination; a clean white document box reserved for a graphic overlay. Composition: Medium Document / Narrative Framing, Eye-level. Foreground: A notebook, pen, and coffee mug on the wooden desk. Midground: Sam Carter working attentively with calm posture. Background: Simple bookshelf with investment books and a window showing residential greenery. Lighting: Clean daytime ambient window light balanced with warm interior tones. Color palette: Desk oak, paper white, canvas navy, maple green, slate gray. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 135806,
+      "created_at": "2026-09-06T14:09:33.654Z"
+    },
+    {
+      "id": "IMG_120",
+      "filename": "IMG_120__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 34-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, calm mature jawline, serene confident brown eyes, unpretentious white Oxford shirt and dark navy chinos, quiet inner sovereignty. Location and setting: Home office workspace, quiet suburban roadway, and park trail. Visual action: Sam Carter seated at his home desk reviewing financial ledgers and investment statements with steady, focused determination; a clean white document box reserved for a graphic overlay. Composition: Medium Document / Narrative Framing, Eye-level. Foreground: A notebook, pen, and coffee mug on the wooden desk. Midground: Sam Carter working attentively with calm posture. Background: Simple bookshelf with investment books and a window showing residential greenery. Lighting: Clean daytime ambient window light balanced with warm interior tones. Color palette: Desk oak, paper white, canvas navy, maple green, slate gray. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 116416,
+      "created_at": "2026-09-06T14:09:33.818Z"
     }
   ]
 }
