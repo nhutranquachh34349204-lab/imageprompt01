@@ -8,7 +8,9 @@
     "dev": "vite",
     "build": "node scripts/parse-prompts.mjs && node scripts/sync-public-images.mjs && vite build",
     "preview": "vite preview",
-    "generate": "node scripts/generate-images.mjs"
+    "typecheck": "tsc --noEmit",
+    "generate": "node scripts/generate-images.mjs",
+    "process:images": "node scripts/process-images.mjs"
   },
   "dependencies": {
     "jszip": "^3.10.1",
