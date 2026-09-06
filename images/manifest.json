@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T11:15:44.115Z",
+  "generated_at": "2026-09-06T11:19:36.997Z",
   "generator": "Arena.ai built-in image generation tool (OpenAI-compatible image model, direct generation, no external API key)",
   "quality": 85,
   "max_long_edge": 1536,
@@ -123,7 +123,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 229834,
-      "created_at": "2026-09-06T11:15:42.543Z"
+      "created_at": "2026-09-06T11:15:42.540Z"
     },
     {
       "id": "IMG_012",
@@ -134,7 +134,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 191872,
-      "created_at": "2026-09-06T11:15:42.711Z"
+      "created_at": "2026-09-06T11:15:42.708Z"
     },
     {
       "id": "IMG_013",
@@ -145,7 +145,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 148950,
-      "created_at": "2026-09-06T11:15:42.877Z"
+      "created_at": "2026-09-06T11:15:42.876Z"
     },
     {
       "id": "IMG_014",
@@ -156,7 +156,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 267598,
-      "created_at": "2026-09-06T11:15:43.062Z"
+      "created_at": "2026-09-06T11:15:43.060Z"
     },
     {
       "id": "IMG_015",
@@ -167,7 +167,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 221272,
-      "created_at": "2026-09-06T11:15:43.231Z"
+      "created_at": "2026-09-06T11:15:43.228Z"
     },
     {
       "id": "IMG_016",
@@ -178,7 +178,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 199386,
-      "created_at": "2026-09-06T11:15:43.399Z"
+      "created_at": "2026-09-06T11:15:43.396Z"
     },
     {
       "id": "IMG_017",
@@ -189,7 +189,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 199940,
-      "created_at": "2026-09-06T11:15:43.566Z"
+      "created_at": "2026-09-06T11:15:43.564Z"
     },
     {
       "id": "IMG_018",
@@ -200,7 +200,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 230342,
-      "created_at": "2026-09-06T11:15:43.760Z"
+      "created_at": "2026-09-06T11:15:43.748Z"
     },
     {
       "id": "IMG_019",
@@ -211,7 +211,7 @@
       "width": 1376,
       "height": 768,
       "bytes": 238112,
-      "created_at": "2026-09-06T11:15:43.933Z"
+      "created_at": "2026-09-06T11:15:43.932Z"
     },
     {
       "id": "IMG_020",
@@ -222,7 +222,117 @@
       "width": 1376,
       "height": 768,
       "bytes": 187050,
-      "created_at": "2026-09-06T11:15:44.093Z"
+      "created_at": "2026-09-06T11:15:44.092Z"
+    },
+    {
+      "id": "IMG_021",
+      "filename": "IMG_021__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 24-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, clean-shaven strong jawline, thoughtful brown eyes, modest casual work clothes. Location and setting: Lakewood modest wood-frame duplex front porch and simple kitchen. Visual action: Sam Carter sitting on his wooden duplex porch steps holding a ceramic coffee mug, looking peacefully at his bronze 2009 sedan parked in the driveway, with a quiet smile of resolve. Composition: Medium Full Establishing Shot, Eye-level. Foreground: Wooden porch steps with potted geraniums. Midground: Sam Carter in a gray t-shirt and jeans, sitting relaxed. Background: Quiet residential Lakewood street with leafy green trees and telephone poles. Lighting: Warm morning sun streaming across wooden porch floorboards. Color palette: Porch wood tan, morning coffee brown, navy canvas, kitchen yellow laminate, plant green. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 209662,
+      "created_at": "2026-09-06T11:19:35.416Z"
+    },
+    {
+      "id": "IMG_022",
+      "filename": "IMG_022__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no human character in frame. Location and setting: Lakewood modest wood-frame duplex front porch and simple kitchen. Visual action: Sam Carter sitting on his wooden duplex porch steps holding a ceramic coffee mug, looking peacefully at his bronze 2009 sedan parked in the driveway, with a quiet smile of resolve. Composition: Medium Full Establishing Shot, Eye-level. Foreground: Wooden porch steps with potted geraniums. Midground: Sam Carter in a gray t-shirt and jeans, sitting relaxed. Background: Quiet residential Lakewood street with leafy green trees and telephone poles. Lighting: Warm morning sun streaming across wooden porch floorboards. Color palette: Porch wood tan, morning coffee brown, navy canvas, kitchen yellow laminate, plant green. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 246060,
+      "created_at": "2026-09-06T11:19:35.612Z"
+    },
+    {
+      "id": "IMG_023",
+      "filename": "IMG_023__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 24-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, clean-shaven strong jawline, thoughtful brown eyes, modest casual work clothes. Location and setting: Lakewood modest wood-frame duplex front porch and simple kitchen. Visual action: Sam Carter sitting on his wooden duplex porch steps holding a ceramic coffee mug, looking peacefully at his bronze 2009 sedan parked in the driveway, with a quiet smile of resolve. Composition: Medium Full Establishing Shot, Eye-level. Foreground: Wooden porch steps with potted geraniums. Midground: Sam Carter in a gray t-shirt and jeans, sitting relaxed. Background: Quiet residential Lakewood street with leafy green trees and telephone poles. Lighting: Warm morning sun streaming across wooden porch floorboards. Color palette: Porch wood tan, morning coffee brown, navy canvas, kitchen yellow laminate, plant green. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 206398,
+      "created_at": "2026-09-06T11:19:35.775Z"
+    },
+    {
+      "id": "IMG_024",
+      "filename": "IMG_024__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 24-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, clean-shaven strong jawline, thoughtful brown eyes, modest casual work clothes. Location and setting: Lakewood modest wood-frame duplex front porch and simple kitchen. Visual action: Sam Carter sitting on his wooden duplex porch steps holding a ceramic coffee mug, looking peacefully at his bronze 2009 sedan parked in the driveway, with a quiet smile of resolve. Composition: Medium Full Establishing Shot, Eye-level. Foreground: Wooden porch steps with potted geraniums. Midground: Sam Carter in a gray t-shirt and jeans, sitting relaxed. Background: Quiet residential Lakewood street with leafy green trees and telephone poles. Lighting: Warm morning sun streaming across wooden porch floorboards. Color palette: Porch wood tan, morning coffee brown, navy canvas, kitchen yellow laminate, plant green. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 199518,
+      "created_at": "2026-09-06T11:19:35.940Z"
+    },
+    {
+      "id": "IMG_025",
+      "filename": "IMG_025__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 24-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, clean-shaven strong jawline, thoughtful brown eyes, modest casual work clothes. Location and setting: Lakewood modest wood-frame duplex front porch and simple kitchen. Visual action: Sam Carter sitting on his wooden duplex porch steps holding a ceramic coffee mug, looking peacefully at his bronze 2009 sedan parked in the driveway, with a quiet smile of resolve. Composition: Medium Full Establishing Shot, Eye-level. Foreground: Wooden porch steps with potted geraniums. Midground: Sam Carter in a gray t-shirt and jeans, sitting relaxed. Background: Quiet residential Lakewood street with leafy green trees and telephone poles. Lighting: Warm morning sun streaming across wooden porch floorboards. Color palette: Porch wood tan, morning coffee brown, navy canvas, kitchen yellow laminate, plant green. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 226236,
+      "created_at": "2026-09-06T11:19:36.122Z"
+    },
+    {
+      "id": "IMG_026",
+      "filename": "IMG_026__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 24-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, clean-shaven strong jawline, thoughtful brown eyes, modest casual work clothes. Location and setting: Lakewood modest wood-frame duplex front porch and simple kitchen. Visual action: Sam Carter sitting on his wooden duplex porch steps holding a ceramic coffee mug, looking peacefully at his bronze 2009 sedan parked in the driveway, with a quiet smile of resolve. Composition: Medium Full Establishing Shot, Eye-level. Foreground: Wooden porch steps with potted geraniums. Midground: Sam Carter in a gray t-shirt and jeans, sitting relaxed. Background: Quiet residential Lakewood street with leafy green trees and telephone poles. Lighting: Warm morning sun streaming across wooden porch floorboards. Color palette: Porch wood tan, morning coffee brown, navy canvas, kitchen yellow laminate, plant green. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 222200,
+      "created_at": "2026-09-06T11:19:36.299Z"
+    },
+    {
+      "id": "IMG_027",
+      "filename": "IMG_027__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no human character in frame. Location and setting: Lakewood modest wood-frame duplex front porch and simple kitchen. Visual action: Sam Carter sitting on his wooden duplex porch steps holding a ceramic coffee mug, looking peacefully at his bronze 2009 sedan parked in the driveway, with a quiet smile of resolve. Composition: Medium Full Establishing Shot, Eye-level. Foreground: Wooden porch steps with potted geraniums. Midground: Sam Carter in a gray t-shirt and jeans, sitting relaxed. Background: Quiet residential Lakewood street with leafy green trees and telephone poles. Lighting: Warm morning sun streaming across wooden porch floorboards. Color palette: Porch wood tan, morning coffee brown, navy canvas, kitchen yellow laminate, plant green. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 238812,
+      "created_at": "2026-09-06T11:19:36.474Z"
+    },
+    {
+      "id": "IMG_028",
+      "filename": "IMG_028__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 24-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, clean-shaven strong jawline, thoughtful brown eyes, modest casual work clothes. Location and setting: Lakewood modest wood-frame duplex front porch and simple kitchen. Visual action: Sam Carter sitting on his wooden duplex porch steps holding a ceramic coffee mug, looking peacefully at his bronze 2009 sedan parked in the driveway, with a quiet smile of resolve. Composition: Medium Full Establishing Shot, Eye-level. Foreground: Wooden porch steps with potted geraniums. Midground: Sam Carter in a gray t-shirt and jeans, sitting relaxed. Background: Quiet residential Lakewood street with leafy green trees and telephone poles. Lighting: Warm morning sun streaming across wooden porch floorboards. Color palette: Porch wood tan, morning coffee brown, navy canvas, kitchen yellow laminate, plant green. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 230372,
+      "created_at": "2026-09-06T11:19:36.647Z"
+    },
+    {
+      "id": "IMG_029",
+      "filename": "IMG_029__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 24-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, clean-shaven strong jawline, thoughtful brown eyes, modest casual work clothes. Location and setting: Lakewood modest wood-frame duplex front porch and simple kitchen. Visual action: Sam Carter sitting on his wooden duplex porch steps holding a ceramic coffee mug, looking peacefully at his bronze 2009 sedan parked in the driveway, with a quiet smile of resolve. Composition: Medium Full Establishing Shot, Eye-level. Foreground: Wooden porch steps with potted geraniums. Midground: Sam Carter in a gray t-shirt and jeans, sitting relaxed. Background: Quiet residential Lakewood street with leafy green trees and telephone poles. Lighting: Warm morning sun streaming across wooden porch floorboards. Color palette: Porch wood tan, morning coffee brown, navy canvas, kitchen yellow laminate, plant green. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 266414,
+      "created_at": "2026-09-06T11:19:36.827Z"
+    },
+    {
+      "id": "IMG_030",
+      "filename": "IMG_030__2d-storytelling-digital-graphic-novel-illustration.webp",
+      "prompt": "2D storytelling digital graphic novel illustration, clean graphic art style. Sam Carter: 2D storytelling digital graphic novel illustration, clean bold ink contours, stylized graphic realism. 24-year-old American man, warm brown skin tone (#9B6244), textured short wavy dark brown hair, clean-shaven strong jawline, thoughtful brown eyes, modest casual work clothes. Location and setting: Lakewood modest wood-frame duplex front porch and simple kitchen. Visual action: Sam Carter sitting on his wooden duplex porch steps holding a ceramic coffee mug, looking peacefully at his bronze 2009 sedan parked in the driveway, with a quiet smile of resolve. Composition: Medium Full Establishing Shot, Eye-level. Foreground: Wooden porch steps with potted geraniums. Midground: Sam Carter in a gray t-shirt and jeans, sitting relaxed. Background: Quiet residential Lakewood street with leafy green trees and telephone poles. Lighting: Warm morning sun streaming across wooden porch floorboards. Color palette: Porch wood tan, morning coffee brown, navy canvas, kitchen yellow laminate, plant green. 2D storytelling digital graphic novel illustration, clean bold black ink contours, stylized graphic realism, muted earth tones, soft cel-shading, matte risograph paper texture, detailed semi-realistic rendering, no text, no letters, no numbers --ar 16:9",
+      "negative_prompt": "text, numbers, words, letters, watermark, signature, logo, subtitles, photorealistic, 3D render, Pixar, Disney, anime, manga, deformed hands, extra fingers, mutated anatomy, shiny plastic skin, bright neon colors, blurry, low resolution, messy linework",
+      "negative_prompt_applied": false,
+      "width": 1376,
+      "height": 768,
+      "bytes": 178148,
+      "created_at": "2026-09-06T11:19:36.990Z"
     }
   ]
 }
