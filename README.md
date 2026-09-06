@@ -80,7 +80,7 @@ Biến môi trường (xem `.env.example`):
 - `IMAGE_SIZE` — mặc định `1536x1024` (kích thước phía API; bước process chuẩn hoá về cạnh dài ≤1536)
 - `IMAGE_NEGATIVE_PROMPT_AS_TEXT=1` — nối negative prompt vào prompt dưới dạng "Avoid in the image…" (API không có tham số negative riêng)
 
-> Ghi chú: công cụ tích hợp đã sinh ảnh hiện tại không hỗ trợ tham số negative prompt riêng, vẫn giữ nguyên negative prompt trong manifest và áp theo kiểu văn bản phủ định trong prompt.
+> Ghi chú: công cụ tích hợp đã sinh ảnh hiện tại **không hỗ trợ tham số negative prompt riêng**, nên `negative_prompt_applied: false` trong manifest. Negative prompt được giữ nguyên văn trong manifest để bạn đối chiếu; prompt chính nguồn vốn đã chứa các điều khoản loại bỏ (`no text, no letters, no numbers`). Script API ở trên có thể bật `IMAGE_NEGATIVE_PROMPT_AS_TEXT=1` để nối negative prompt vào prompt dưới dạng "Avoid in the image…".
 
 ### 3) Xử lý ảnh
 

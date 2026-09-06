@@ -35,6 +35,10 @@ function arg(name, fallback) {
 }
 const only = new Set((arg('only', '') || '').split(',').map((s) => s.trim()).filter(Boolean));
 const force = process.argv.includes('--force');
+// Whether a negative prompt was actually applied by the generator.
+// The built-in image tool has no separate negative-prompt parameter,
+// so pass --negative-applied only for generators/APIs that support it.
+const negativeApplied = process.argv.includes('--negative-applied');
 const MAX_LONG_EDGE = Number(arg('max-edge', '1536'));
 const QUALITY = Number(arg('quality', '85'));
 const TOTAL_BUDGET = 200 * 1024 * 1024; // 200 MB
@@ -81,11 +85,26 @@ for (const { id, prompt, negative_prompt } of sorted) {
   const outPath = resolve(IMAGES_DIR, filename);
 
   if (!rawPath) {
-    // Only record missing raw input when this ID was explicitly requested
-    // (or it already exists in the manifest / output folder); otherwise it
-    // simply hasn't been generated yet and is not an error.
-    const alreadyDone = existsSync(outPath);
-    if (explicit || alreadyDone) {
+    // If the final WebP already exists, keep it in the manifest (idempotent
+    // re-run without raw sources). Only record a missing raw input as failure
+    // when the ID was explicitly requested AND the output file does not exist.
+    if (existsSync(outPath)) {
+      const meta = await sharp(outPath).metadata();
+      items.push({
+        id,
+        filename,
+        prompt,
+        negative_prompt,
+        negative_prompt_applied: negativeApplied,
+        width: meta.width,
+        height: meta.height,
+        bytes: statSync(outPath).size,
+        created_at: statSync(outPath).mtime.toISOString(),
+      });
+      console.log(`KEEP ${id} -> ${filename} (existing file kept)`);
+      continue;
+    }
+    if (explicit) {
       failed.push({ id, error: 'no raw input found (raw/<ID>.png|jpg|webp)', created_at: new Date().toISOString() });
     }
     continue;
@@ -99,7 +118,7 @@ for (const { id, prompt, negative_prompt } of sorted) {
         filename,
         prompt,
         negative_prompt,
-        negative_prompt_applied: true,
+        negative_prompt_applied: negativeApplied,
         width: meta.width,
         height: meta.height,
         bytes: statSync(outPath).size,
@@ -125,7 +144,7 @@ for (const { id, prompt, negative_prompt } of sorted) {
       filename,
       prompt,
       negative_prompt,
-      negative_prompt_applied: true,
+      negative_prompt_applied: negativeApplied,
       width: info.width,
       height: info.height,
       bytes: info.size,
